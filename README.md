@@ -1,4 +1,4 @@
-# <div align='center'>PouCode</div>
+# <div align='center'>Zxxy</div>
 
 <p align="center">
 
@@ -28,7 +28,7 @@ npm install github:pou-code/Baileys
 Or add it to your `package.json` manually:
 ```json
 "dependencies": {
-  "@poucode/baileys": "github:pou-code/Baileys"
+  "@whiskeysockets/baileys": "github:zxxyreal/zxxy"
 }
 ```
 
@@ -53,7 +53,7 @@ npm install github:pou-code/Baileys#main
 const {
   default: makeWASocket,
   // other exports
-} = require('@poucode/baileys');
+} = require('@zxxyreal/zxxy');
 ```
 
 ---
